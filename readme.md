@@ -3,9 +3,7 @@
 This one is a rode clone made using HTML and TAILWIND CSS only. This website is fully responsive.
 ## Video
 
-
-https://user-images.githubusercontent.com/109405477/182116769-3134edf4-3f8e-4480-8b26-7a87e6cdacf0.mp4
-
+https://user-images.githubusercontent.com/109405477/185898080-7400c842-9089-48ef-8679-139a6a225946.mp4
 
 ## Deployed Link
 
