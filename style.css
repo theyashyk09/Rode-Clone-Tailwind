@@ -1,0 +1,73 @@
+.bac-1{
+    background-image: url(./Images/microphones.png);
+    background-size: cover;
+}
+
+.bac-2{
+    background-image: url(./Images/interfaces&mixers.jpg);
+    background-size: cover;
+}
+
+.bac-3{
+    background-image: url(./Images/softwares.png);
+    background-size: cover;
+}
+
+.bac-4{
+    background-image: url(./Images/accessories.png);
+    background-size: cover;
+}
+
+.section-1 {
+    background-image: url(./Images/6.jpg);
+    height: 90vh;
+    background-repeat: no-repeat;
+    background-position: top;
+}
+
+.section-2{
+    background-image: url(./Images/7.jpg);
+    height: 90vh;
+    background-repeat: no-repeat;
+    background-position: top;
+}
+
+.section-3{
+    background-image: url(./Images/8.jpg);
+    height: 90vh;
+    background-repeat: no-repeat;
+    background-position: top;
+}
+
+.section-4{
+    background-image: url(./Images/9.jpg);
+    height: 90vh;
+    background-repeat: no-repeat;
+    background-position: top;
+}
+
+.section-5{
+    background-image: url(./Images/10.jpg);
+    height: 90vh;
+    background-repeat: no-repeat;
+    background-position: top;
+}
+
+.section-6{
+    background-image: url(./Images/11.jpg);
+    height: 90vh;
+    background-repeat: no-repeat;
+    background-position: top;
+}
+
+@media screen and (max-width:1024px){
+    .section-1,.section-2,.section-3,.section-4,.section-5,.section-6{
+        background: transparent;
+    }
+}
+
+@media screen and (max-width:1024px){
+    .section-2,.section-1,.section-3,.section-5,.section-4,.section-6{
+        height: max-content;
+    }
+}
